@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2023-04-28",
+    "min": 60,
+    "max": 119,
+    "latestDataTimestamp": "2023-04-28T21:54:00",
+    "median": 80.5
+  },
+  {
+    "date": "2023-04-29",
+    "min": 61,
+    "max": 120,
+    "latestDataTimestamp": "2023-04-29T21:54:00",
+    "median": 81
+  },
+  {
+    "date": "2023-04-30",
+    "min": 62,
+    "max": 120,
+    "latestDataTimestamp": "2023-04-30T21:53:00",
+    "median": 82
+  },
+  {
+    "date": "2023-05-01",
+    "min": 60,
+    "max": 117,
+    "latestDataTimestamp": "2023-05-01T21:56:00",
+    "median": 78
+  }
+]
