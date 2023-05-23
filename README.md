@@ -11,5 +11,9 @@ Open a terminal or command prompt and navigate to the project directory.
 
 Run the following command to install the project dependencies:
 
-Copy code
-npm install
+npm install.  
+
+Run the following command to run the code 
+node heartRateagg.js 
+
+The output/result will be displayed in output.json file.
